@@ -20,6 +20,8 @@ public class MainMethod {
       System.out.println(y);
       System.out.println(y);
       System.out.println("changes made one");
+      System.out.println("changes made by GitX");
+      System.out.println("changes made by GitX");
 
       )
   }
