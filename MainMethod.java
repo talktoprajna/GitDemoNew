@@ -19,6 +19,9 @@ public class MainMethod {
       System.out.println(y);
       System.out.println(y);
       System.out.println(y);
+      System.out.println("changes made one");
+
+      )
   }
   
   //static method
