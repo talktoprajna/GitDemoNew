@@ -13,6 +13,12 @@ public class MainMethod {
   public void mainNew() {
    int y = 50;
    System.out.println(y);
+   //making changes for GitDemoNew
+      System.out.println(y);
+      System.out.println(y);
+      System.out.println(y);
+      System.out.println(y);
+      System.out.println(y);
   }
   
   //static method
@@ -36,7 +42,7 @@ public class MainMethod {
    }
 }
 
-output
-5
-50
-150
+//output
+//5
+//50
+//150
