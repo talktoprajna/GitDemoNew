@@ -24,6 +24,8 @@ public class MainMethod {
       System.out.println("changes made by GitX");
       System.out.println("changes made by GitDemoNew person");
       System.out.println("changes made by GitDemoNew person");
+      System.out.println("changes made by GitDemoNew person on his branch develop");
+
       )
   }
   
